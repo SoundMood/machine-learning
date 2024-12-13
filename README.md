@@ -40,3 +40,9 @@ The dataset example is shown below:
 | **Macro avg** | **0.87** | **0.85** | **0.86** | **2834**|
 | **Weighted avg** | **0.88** | **0.88** | **0.88** | **2834**|
 
+## Prediction Example
+
+Below is an example of the prediction result:
+
+![image](https://github.com/user-attachments/assets/c4bf1253-6047-4e80-9993-a27b6c9fe25c)
+
